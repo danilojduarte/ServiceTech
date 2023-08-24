@@ -34,3 +34,21 @@ body {
     position: relative;
     background-color: var(--primary-normal);
 }
+
+button {
+    cursor: pointer;
+    font-family: 'Outfit', sans-serif;
+}
+
+svg { 
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
